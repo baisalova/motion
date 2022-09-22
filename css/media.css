@@ -1,0 +1,765 @@
+@media(max-width: 1440px){
+    .container {
+        width: 90%;
+    }
+}
+@media(max-width: 1200px){
+    .container {
+        width: 90%;
+    }
+}@media(max-width: 1024px){
+    .container {
+        width: 90%;
+    }
+    .header-block h1 {
+        font-size: 18px;
+    }
+    .header-block p {
+        font-size: 9px;
+
+    }
+    .header-block button {
+        width: 139px;
+        height: 36px;
+
+    }
+    .navbar-block a {
+        font-size: 7px;
+
+    }
+    .navbar-nav button {
+        width: 117px;
+        height: 33px;
+        font-size: 9px;
+
+    }
+    .header-image div {
+        top: 250px;
+        left: 500px;
+    }
+
+
+
+    .navbar-block div h1 {
+        font-size: 12px;
+    }
+    .navbar-block div p {
+        font-size: 10px;
+    }
+    .navbar-nav button {
+        width: 90px;
+        height: 27px;
+        font-size: 9px;
+    }
+    .navbar-block a {
+        font-size: 10px;
+    }
+    .header-block h1 {
+        font-size: 21px;
+    }
+    .header-block p {
+        font-size: 10px;
+
+    }
+    .header-block button {
+        width: 138px;
+        height: 41px;
+    }
+    .header-image div img {
+        position: absolute;
+        left: -716px;
+        top: -150px;
+        width: 596px;
+    }
+    .header-image {
+        display: flex;
+        margin-left: -77px;
+    }
+.header-image img {
+    position: absolute;
+    top: 100px;
+    right: 12px;
+    width: 507px;
+    height: 419px;
+}
+
+    .header-image div img {
+        width: 600px;
+    }
+    .header-image img {
+        width: 600px;
+    }
+    .hero div h1 {
+        font-size: 17px;
+    }
+    .hero a {
+        font-size: 10px;
+    }
+    .desk {
+        margin-right: 183px;
+    }
+    .desk-image h1 {
+        font-size: 12px;
+    }
+    .desk img img {
+        width: 150px;
+        height: 150px;
+    }
+    .desk-block p {
+        font-size: 8px;
+
+    }
+    .desk img img {
+        width: 150px;
+    }
+    .desk img img {
+        width: 150px;
+        height: 150px;
+    }
+    .about-block div img {
+        width: 500px;
+        margin-left: -207px;
+
+    }
+    .about-li h1 {
+        font-size: 23px;
+    }
+.about-block img {
+    width: 500px;
+    height: 400px;
+    margin-left: -159px;
+}
+    .work-title div h2 {
+        font-size: 31px;
+    }
+    .work-title div p {
+        font-size: 16px;
+    }
+    .footer-block div h1 {
+        font-size: 11px;
+    }
+    .footer-block div p {
+        font-size: 10px;
+    }
+    .footer a {
+        font-size: 9px;
+    }
+    footer button {
+        width: 281px;
+        height: 37px;
+        font-size: 9px;
+    }
+.product {
+    display: flex;
+    margin-right: 126px;
+}
+.present {
+    margin-right: 153px;
+}
+.work h1 {
+    font-size: 20px;
+    padding: 30px;
+}
+.work-title {
+    margin-right: 83px;
+}
+.work-title div h2 {
+    font-size: 29px;
+}
+.footer {
+    margin-right: 271px;
+    padding: 41px;
+}
+.desk {
+    margin-right: 190px;
+}
+} @media(max-width: 992px){
+    .container {
+        width: 90%;
+    }
+
+    .header-block h1 {
+        font-size: 16px;
+    }
+    .header-block p {
+        font-size: 8px;
+
+    }
+    .header-block button {
+        width: 119px;
+        height: 33px;
+    }
+    .header-image img {
+        right: 26px;
+        width: 600px;
+        height: 354px;
+    }
+    .header-image div img {
+        left: -855px;
+        width: 500px;
+        height: 354px;
+    }
+    .desk {
+        margin-right: 157px;
+    }
+    .desk-image h1 {
+        font-size: 12px;
+
+    }
+    .about-block div img {
+        width: 491px;
+    }
+    .about-block div img {
+        width: 491px;
+    }
+    .about {
+        margin-right: 179px;
+    }
+    .about-li h1 {
+        font-size: 16px;
+    }
+    .about-li p {
+        font-size: 11px;
+
+    }
+    .text h1 {
+        padding: 184px;
+    }
+    .product {
+        margin-right: 195px;
+    }
+    .product-image h1 {
+        font-size: 14px;
+    }
+    .present {
+        margin-right: 165px;
+    }
+    .present-image h1 {
+
+        font-size: 11px;
+
+    }
+    .work-block {
+        margin-right: 154px;
+    }
+    .work-title div h2 {
+        font-size: 32px;
+    }
+    .work-title div p {
+        font-size: 9px;
+    }
+    .footer {
+        margin-right: 172px;
+    }
+
+}@media(max-width: 768px){
+    .container {
+        width: 90%;
+    }
+    .header-image img {
+        width: 468px;
+        height: 276px;
+    }
+    .header-image div img {
+        width: 405px;
+        height: 296px;
+        left: -907px;
+    }
+    .hero {
+        margin-top: 51px;
+    }
+    .desk {
+        margin-right: 366px;
+    }
+    .desk-image img {
+        width: 135px;
+    }
+.desk-image img {
+        width: 135px;
+    }
+.desk-image img {
+        width: 135px;
+    }
+.desk-image img {
+        width: 135px;
+    }
+.about-block div img {
+    width: 405px;
+}
+    .about {
+        margin-right: 363px;
+    }
+    .product {
+        margin-top: -166px;
+        margin-right: 361px;
+    }
+    .present {
+        margin-top: 34px;
+        margin-right: 349px;
+    }
+    .work-block {
+        margin-top: 40px;
+        margin-right: 376px;
+    }
+
+    .footer {
+        margin-right: 380px;
+    }
+.about-block div img {
+    width: 405px;
+}
+}@media(max-width: 576px){
+    .container {
+        width: 90%;
+    }
+    .header-image div img {
+        left: -810px;
+        width: 291px;
+        height: 186px;
+    }
+    .header-image img {
+        right: 26px;
+        width: 239px;
+        height: 188px;
+    }
+    .hero {
+        margin-top: -56px;
+    }
+    .desk {
+        margin-top: 25px;
+        margin-right: 580px;
+    }
+    .hero div h1 {
+        font-size: 13px;
+
+    }
+    .desk-image img {
+        width: 93px;
+    }.desk-image img {
+        width: 93px;
+    }.desk-image img {
+        width: 93px;
+    }.desk-image img {
+        width: 93px;
+    }
+    .desk-block p {
+        font-size: 9px;
+    }
+    .desk-image h1 {
+        font-size: 9px;
+
+    }
+    .about-block div img {
+        width: 308px;
+    }
+    .about-block div img {
+        width: 308px;
+    }
+    .about {
+        margin-right: 545px;
+    }
+    .about-li h1 {
+        font-size: 12px;
+    }
+    .about-li {
+        margin-left: 100px;
+        margin-top: -214px;
+    }
+    .text h1 {
+        padding: 159px;
+        font-size: 17px;
+
+    }
+    .product-image img {
+        width: 115px;
+    }
+    .product-image img {
+        width: 115px;
+    }
+    .product-image img {
+        width: 115px;
+    }
+    .product-image img {
+        width: 115px;
+    }
+    .product-block p {
+        font-size: 10px;
+    }
+    .product-image h1 {
+        font-size: 9px;
+    }
+    .product {
+        margin-right: 551px;
+        margin-top: -147px;
+    }
+    .present-image img {
+        width: 115px;
+    }
+    .present-image img {
+        width: 115px;
+    }
+    .present-image img {
+        width: 115px;
+    }
+    .present-image img {
+        width: 115px;
+    }
+    .present-image h1 {
+        font-size: 7px;
+
+    }
+    .present-block p {
+        font-size: 9px;
+    }
+    .present {
+        margin-right: 575px;
+    }
+    .work h1 {
+        font-size: 17px
+    }
+    .work-block {
+        margin-right: 543px;
+    }
+    .work-title div h2 {
+        font-size: 20px;
+    }
+    .footer-block div h1 {
+        font-size: 8px;
+    }
+    .footer-block div p {
+        font-size: 8px;
+
+    }
+    .footer {
+
+        margin-right: 599px;
+    }
+    .footer a {
+        font-size: 6px;
+    }
+    .footer button {
+        width: 84px;
+        height: 28px;
+        font-size: 6px;
+    }
+    .footer-block {
+        padding: 32px;
+    }
+
+
+}@media(max-width: 400px){
+.container {
+
+    width: 90%;
+}
+    .header-block h1 {
+        font-size: 7px;
+        margin-top: -26px;
+        padding-bottom: 20px;
+    }
+    .header-block p {
+        font-size: 4px;
+        padding-bottom: 18px;
+    }
+
+    .header-block button {
+        width: 90px;
+        height: 27px;
+        font-size: 7px;
+    }
+    .header-image div img {
+        width: 192px;
+        height: 113px;
+    }
+    .header-image img {
+        width: 191px;
+        height: 100px;
+    }
+    .hero {
+        margin-top: -185px;
+    }
+    .desk {
+        margin-right: 755px;
+    }
+    .about-block div img {
+        width: 186px;
+    }
+    .about-block div img {
+        width: 186px;
+    }
+    .about {
+        margin-right: 743px;
+    }
+    .about-li p {
+        font-size: 7px;
+
+    }
+    .about-li h1 {
+        font-size: 9px;
+
+    }
+    .about-li {
+        margin-left: 40px;
+        margin-top: -130px;
+    }
+    .text h1 {
+        font-size: 12px;
+    }
+    .text {
+        margin-top: -79px;
+    }
+.product-image img {
+    width: 63px;
+}
+    .product-image img {
+    width: 63px;
+}
+    .product-image img {
+    width: 63px;
+}
+    .product-image img {
+    width: 63px;
+}
+    .product-block p {
+        font-size: 7px;
+    }
+    .product-image h1 {
+        font-size: 5px;
+    }
+    .product {
+        margin-right: 708px;
+    }
+    .present-image img {
+        width: 63px;
+    }
+    .present-image img {
+        width: 63px;
+    }
+    .present-image img {
+        width: 63px;
+    } .present-image img {
+        width: 63px;
+    }
+    .present-block p {
+        font-size: 5px;
+    }
+    .present-title h2 {
+        font-size: 7px;
+    }
+    .present {
+        margin-right: 742px;
+    }
+    .work h1 {
+        font-size: 10px;
+    }
+    .work-title div h2 {
+        font-size: 9px;
+    }
+    .work-title div p {
+        font-size: 5px;
+    }
+    .work-block {
+        margin-top: 26px;
+        margin-right: 769px;
+    }
+    .footer-block div h1 {
+        font-size: 5px;
+    }
+    .footer-block div p {
+        font-size: 5px;
+    }
+    .footer {
+        margin-right: 748px;
+    }
+    .footer a {
+        font-size: 4px;
+    }
+    .footer button {
+        width: 61px;
+        height: 17px;
+        font-size: 4px;
+    }
+}@media(max-width: 380px){
+.container {
+    width: 90%;
+}
+    .product-title h2 {
+        font-size: 7px;
+    }
+    .desk-title h2 {
+        font-size: 6px;
+    }
+    .navbar-block div h1 {
+        font-size: 7px;
+    }
+    .navbar-block div p {
+        font-size: 6px;
+    }
+    .navbar-block a {
+        font-size: 3px;
+    }
+    .navbar-nav button {
+        width: 73px;
+        height: 20px;
+        font-size: 5px;
+    }
+    .navbar-block img {
+        width: 11px;
+        padding: 2px;
+    }
+    .about {
+        margin-right: 774px;
+    }
+    .footer-block div p {
+        font-size: 3px;
+    }
+}
+.footer button {
+    width: 50px;
+    height: 14px;
+}
+.footer {
+    margin-right: 784px;
+}
+
+@media(max-width: 375px){
+.container {
+    width: 90%;
+}
+    .hero a {
+        font-size: 6px;
+    }
+}@media(max-width: 320px) {
+    .container {
+        width: 90%;
+    }
+
+    .navbar-block div h1 {
+        font-size: 5px;
+    }
+
+    .navbar-block div p {
+        font-size: 5px;
+    }
+
+    .navbar-block img {
+        width: 13px;
+    }
+    .navbar-nav button {
+        width: 85px;
+        height: 29px;
+        font-size: 7px;
+
+    }
+    .header-image img {
+        width: 226px;
+        height: 200px;
+    }
+    .header-block h1 {
+        font-size: 6px;
+
+    }
+    .header-block p {
+        font-size: 3px;
+    }
+    .header-block button {
+        width: 64px;
+        height: 25px;
+        font-size: 4px;
+    }
+    .header-image img {
+        position: absolute;
+        top: 77px;
+        right: 25px;
+        width: 146px;
+        height: 121px;
+    }
+    .header-image div img {
+        position: absolute;
+        left: -901px;
+        top: -182px;
+        width: 142px;
+    }
+    .header-block {
+        display: flex;
+        margin-top: -19px;
+    }
+    .hero div h1 {
+        font-size: 7px;
+    }
+    .hero {
+        margin-top: -103px;
+        margin-right: 832px;
+    }
+    .hero a {
+        font-size: 5px;
+    }
+    .desk-image img {
+        width: 52px;
+    }
+    .desk-image img {
+        width: 52px;
+    }
+    .desk-image img {
+        width: 52px;
+    }
+    .desk-image img {
+        width: 52px;
+    }
+    .desk-block p {
+
+        font-size: 5px;
+
+    }
+    .desk-image h1 {
+        font-size: 7px;
+        }
+    .desk-title h2 {
+        font-size: 7px;
+    }
+    .desk-title a {
+        width: 8px;
+    }
+    .desk {;
+        margin-right: 841px;}
+    .about-li h1 {
+        font-size: 13px;
+    }
+    .text h1 {
+        padding: 150px;
+        font-family: 'Montserrat',sans-serif;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 9px;
+        color: #2A2D46;
+    }
+    .header-image div img {
+        position: absolute;
+        left: -987px;
+        top: -203px;
+        width: 142px
+    }
+    .about {
+        width: 158px;
+        margin-right: -42px;
+    }
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
